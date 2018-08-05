@@ -1,0 +1,33 @@
+body {
+    background-image: url("bg.jpg");
+    background-size: cover;
+}
+
+.lightHeading {
+    font-family: sans-serif;
+    font-weight: lighter;
+    position: absolute;
+    color: #fff;
+}
+
+#headline {
+    font-size: 150px;
+    left: 20%;
+    top: 15%;
+    font-family: sans-serif;
+    color: #F5C347;
+}
+
+#tagline {
+    font-size: 50px;
+    position: absolute;
+    right: 20%;
+    bottom: 10%;
+}
+
+#cta {
+    font-size: 50px;
+    position: absolute;
+    right: 20%;
+    bottom: 3%;
+}
